@@ -43,7 +43,7 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 ```
 ## Output:
 
-![image](https://github.com/pirateharishs/Multivariate-Linear-Regression/assets/166011385/621ce114-a71c-4646-8995-6b2f8c433dd8)
+![image](https://github.com/pirateharishs/Multivariate-Linear-Regression/assets/166011385/b02411d7-901f-49ce-9db8-516dca806663)
 ![image](https://github.com/pirateharishs/Multivariate-Linear-Regression/assets/166011385/04e4083d-f14b-4c16-b351-bc90e44a5d07)
 
 ## Result
